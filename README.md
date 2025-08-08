@@ -45,3 +45,11 @@ An investor-focused interactive dashboard built with **Streamlit** to visualize 
    - Export to PDF/Excel for investor reports.
    - Real-time integration with Vahan dashboard.
    - Improved mobile responsiveness.
+  
+## **Outputs**
+<img width="1917" height="869" alt="image" src="https://github.com/user-attachments/assets/13c26825-e94c-4e15-844b-435f0275f7a9" />
+<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/658fafd6-514a-48ac-ab14-063c1e40840f" />
+<img width="1919" height="837" alt="image" src="https://github.com/user-attachments/assets/6642e9f8-afb9-425a-b92e-c8563e58cf83" />
+
+
+
