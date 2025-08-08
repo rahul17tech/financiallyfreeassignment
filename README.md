@@ -29,8 +29,8 @@ An investor-focused interactive dashboard built with **Streamlit** to visualize 
 ## **Installation and Setup**
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/vehicle-registration-dashboard.git
-   cd vehicle-registration-dashboard
+   git clone https://github.com/rahul17tech/financiallyfreeassignment.git
+   cd financiallyfreeassignment
 
 ## **Feature Roadmap**
 1. Current:
